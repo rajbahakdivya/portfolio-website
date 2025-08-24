@@ -12,10 +12,11 @@ export const Home = () => {
   <RevealOnScroll>
     <div className="w-[200px] h-[200px] sm:w-[250px] sm:h-[250px] mb-6 transition-transform duration-300 hover:scale-105 hover:shadow-lg overflow-hidden">
       <img
-        src="https://drive.google.com/uc?export=view&id=1_nhJxzYFzxZVxwYKfgYpw6iVsRL2Pd6q"
-        alt="Top Image"
-        className="w-full h-full object-cover"
-      />
+            src={`${import.meta.env.BASE_URL}images/homeimg.jpg`}
+            alt="Left Image"
+  className="w-full h-full object-cover"
+/>
+
 
     </div>
   </RevealOnScroll>
