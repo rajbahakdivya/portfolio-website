@@ -12,10 +12,11 @@ export const Home = () => {
   <RevealOnScroll>
     <div className="w-[200px] h-[200px] sm:w-[250px] sm:h-[250px] mb-6 transition-transform duration-300 hover:scale-105 hover:shadow-lg overflow-hidden">
       <img
-        src="/images/homeimg.jpg"
+        src="https://drive.google.com/uc?export=view&id=1_nhJxzYFzxZVxwYKfgYpw6iVsRL2Pd6q"
         alt="Top Image"
         className="w-full h-full object-cover"
       />
+
     </div>
   </RevealOnScroll>
 
@@ -47,14 +48,15 @@ export const Home = () => {
           Contact Me
         </a>
 
-        <a
-          href="/cv/divya.pdf"
+       <a
+          href="https://drive.google.com/file/d/1y1AwDARKkn-WU6SXgLYPm1Ai0x0y5p9P/preview"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-gradient-to-r from-[#d7a1a9] to-[#ffcc80] text-white py-3 px-6 rounded font-medium transition relative overflow-hidden hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(255,204,128,0.4)]"
-        >
-         View CV
-         </a>
+      >
+        View CV
+      </a>
+
       </div>
     </div>
   </RevealOnScroll>
