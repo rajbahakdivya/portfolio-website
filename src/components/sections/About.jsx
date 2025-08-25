@@ -109,13 +109,15 @@ export const About = () => {
                   </ul>
                   <div className="mt-4">
                     <a
-                      href="/divya-portfolio/images/truneryIntern.pdf"
+                      href="https://drive.google.com/file/d/15Y2rg4u1e_ubokrzfMbLjt8KHR-wb_0S/preview"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-[#4e342e] hover:text-[#d7a1a9] transition-all text-sm font-semibold border-b-2 border-transparent hover:border-[#d7a1a9]"
                     >
                       View Internship Certificate
                     </a>
+
+
                   </div>
                 </div>
 
